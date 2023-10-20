@@ -24,8 +24,8 @@ To build the Docker image and run the Node.js application:
 2. Clone this repository:
 
 ```bash
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/caidam/dockerized-nodejs-app
+    cd dockerized-nodejs-app
 ```
 3. Build the Docker image using the provided Dockerfile:
 
